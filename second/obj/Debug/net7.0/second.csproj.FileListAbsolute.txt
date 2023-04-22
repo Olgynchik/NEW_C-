@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\new folder\second\bin\Debug\net7.0\second.exe
+C:\Users\Ольга\Desktop\new folder\second\bin\Debug\net7.0\second.deps.json
+C:\Users\Ольга\Desktop\new folder\second\bin\Debug\net7.0\second.runtimeconfig.json
+C:\Users\Ольга\Desktop\new folder\second\bin\Debug\net7.0\second.dll
+C:\Users\Ольга\Desktop\new folder\second\bin\Debug\net7.0\second.pdb
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.dll
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\refint\second.dll
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.pdb
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\second.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\new folder\second\obj\Debug\net7.0\ref\second.dll
