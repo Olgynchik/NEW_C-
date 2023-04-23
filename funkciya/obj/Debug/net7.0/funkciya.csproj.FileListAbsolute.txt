@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\new folder\funkciya\bin\Debug\net7.0\funkciya.exe
+C:\Users\Ольга\Desktop\new folder\funkciya\bin\Debug\net7.0\funkciya.deps.json
+C:\Users\Ольга\Desktop\new folder\funkciya\bin\Debug\net7.0\funkciya.runtimeconfig.json
+C:\Users\Ольга\Desktop\new folder\funkciya\bin\Debug\net7.0\funkciya.dll
+C:\Users\Ольга\Desktop\new folder\funkciya\bin\Debug\net7.0\funkciya.pdb
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.dll
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\refint\funkciya.dll
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.pdb
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\funkciya.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\new folder\funkciya\obj\Debug\net7.0\ref\funkciya.dll
